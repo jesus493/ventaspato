@@ -1,0 +1,21 @@
+body{
+    background-image: url("../img2/FONDO NEGRO.jpg");
+    background-color: aqua;
+    font-family: calibri;
+}
+ h1{
+     font-size: 25px;
+     color: #FFFFFF;
+
+ }
+
+P{
+    color: aliceblue;
+}
+
+.uno {
+    background-color: grey;
+    width: 60%;
+    height: 350px;
+    margin: auto;
+}

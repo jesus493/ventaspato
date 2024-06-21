@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Calibri light";
+    background-color: black;
+    font-family: calibri;
+}
+
+.contenedor{
+    background: tomato;
+    border-style: solid;
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    height: 400px;
+    background-image: url("../img4/el\ goat.png");
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background-color: rgb(102, 102, 102);
+    padding: 20px 30px;
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(241, 9, 21);
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 10px solid #190972;
+}
+
+main .foto img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+footer{
+    background-color: rgb(253, 12, 12);
+    text-align: center;
+    padding: 25px;
+    color: #ffffff;
+}
